@@ -1,1 +1,0 @@
-# Cloud-ready skeleton. Use requirements.txt (no Poetry).
