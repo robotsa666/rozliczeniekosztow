@@ -1,0 +1,3 @@
+[tool.poetry]
+name='kontroling-opk'
+version='0.1.0'
